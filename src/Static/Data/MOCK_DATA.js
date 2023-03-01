@@ -1,0 +1,10 @@
+export const MOCK_DATA = [{"UUID":"12a52ddc-f5ad-44d7-9c38-0bab08e632cb","App_Name":"Gembucket","App_IMG":"http://dummyimage.com/1000x1000.png/ff4444/ffffff","App_URL":"https://www.google.com"},
+{"UUID":"063683b4-70b3-431a-94af-b06b7d37a954","App_Name":"Prodder","App_IMG":"http://dummyimage.com/1000x1000.png/dddddd/000000","App_URL":"https://www.google.com"},
+{"UUID":"cace452e-7699-43cf-bba1-d16def4efbaf","App_Name":"Pannier","App_IMG":"http://dummyimage.com/1000x1000.png/cc0000/ffffff","App_URL":"https://www.google.com"},
+{"UUID":"145da6e6-39e3-4bb6-b6d3-dc95988c1c68","App_Name":"Daltfresh","App_IMG":"http://dummyimage.com/1000x1000.png/dddddd/000000","App_URL":"https://www.google.com"},
+{"UUID":"3c79360c-660b-4ce5-bb15-eeb42c3db75f","App_Name":"Bytecard","App_IMG":"http://dummyimage.com/1000x1000.png/ff4444/ffffff","App_URL":"https://www.google.com"},
+{"UUID":"09e1d801-9cb7-4b50-b816-dfd966ecfcc0","App_Name":"Regrant","App_IMG":"http://dummyimage.com/1000x1000.png/dddddd/000000","App_URL":"https://www.google.com"},
+{"UUID":"68e1995a-ef40-4dee-a256-a49382a82b7c","App_Name":"Zoolab","App_IMG":"http://dummyimage.com/1000x1000.png/5fa2dd/ffffff","App_URL":"https://www.google.com"},
+{"UUID":"55ff0a9b-1801-4a6e-b22f-ec448f95cf4c","App_Name":"Greenlam","App_IMG":"http://dummyimage.com/1000x1000.png/cc0000/ffffff","App_URL":"https://www.google.com"},
+{"UUID":"40779636-7e1c-49fd-9ad9-594a5fa0470c","App_Name":"Toughjoyfax","App_IMG":"http://dummyimage.com/1000x1000.png/dddddd/000000","App_URL":"https://www.google.com"},
+{"UUID":"1386cdf6-0727-4898-98b4-59793525a571","App_Name":"Viva","App_IMG":"http://dummyimage.com/1000x1000.png/5fa2dd/ffffff","App_URL":"https://www.google.com"}]

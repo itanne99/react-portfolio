@@ -1,0 +1,13 @@
+.link-unstyled, .link-unstyled:link, .link-unstyled:hover {
+    color: inherit !important;
+    text-decoration: inherit !important;
+  }
+
+.hover-effect-background {
+    background: linear-gradient(90deg, rgba(0,0,0,0.45) 0%, rgba(0,0,0,0.45) 100%);
+    border-radius: 5px;
+}
+
+.hover-effect-background:hover {
+    background: linear-gradient(90deg, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0.65) 100%);
+}

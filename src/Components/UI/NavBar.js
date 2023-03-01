@@ -8,8 +8,8 @@ export const NavBar = () => {
         <Container>
           <Nav className="mx-auto">
             <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#features">About Me</Nav.Link>
-            <Nav.Link href="#pricing">Projects</Nav.Link>
+            <Nav.Link href="#about">About Me</Nav.Link>
+            <Nav.Link href="#projects">Projects</Nav.Link>
           </Nav>
         </Container>
       </Navbar>

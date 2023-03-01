@@ -5,7 +5,7 @@ import { Project } from "./Project";
 
 export const Projects = () => {
   return (
-    <div className="my-3">
+    <div className="my-3" id="projects">
       <h3 className="text-center">Projects</h3>
       <Container>
         <Row className="justify-content-center g-4" md={4}>

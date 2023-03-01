@@ -4,7 +4,7 @@ import LoremIpsum from "react-lorem-ipsum";
 
 export const Home = () => {
   return (
-    <Container fluid id="home" className="">
+    <Container fluid id="home">
       <Row className="justify-content-center my-4">
         <div className="w-75">
           <LoremIpsum p="4" />

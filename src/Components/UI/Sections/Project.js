@@ -1,9 +1,8 @@
-import React, { useState } from "react";
+import React from "react";
 import { Card, Col } from "react-bootstrap";
 import "./Project.css";
 
 export const Project = (props) => {
-    const [hovered, setHovered] = useState(false)
 
   return (
     <Col>

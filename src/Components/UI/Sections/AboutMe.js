@@ -1,6 +1,5 @@
 import React from "react";
-import { Col, Container, Row } from "react-bootstrap";
-import { Avatar } from "react-lorem-ipsum";
+import { Col, Container, Image, Row } from "react-bootstrap";
 
 export const AboutMe = () => {
   return (
@@ -8,15 +7,17 @@ export const AboutMe = () => {
       <Row className="justify-content-center my-4">
         <h3 className="text-center">About Me</h3>
         <Container className="mt-3">
-          <Row>
-            <Col className="d-flex justify-content-center">
-              {/* <img
-                href={process.env.PUBLIC_URL + "/Ido-Pro-Pic.png"}
-                alt="Profile Picture of Ido"
-              /> */}
-              <Avatar className="rounded"/>
+          <Row className="justify-content-evenly">
+            <Col md={4} className="d-flex flex-column justify-content-center">
+              <Row className="w-75 mx-auto">
+                <Image
+                  src={process.env.PUBLIC_URL + "/profile-pic.png"}
+                  alt="Profile Picture of Ido"
+                  width={`100%`}
+                />
+              </Row>
             </Col>
-            <Col>
+            <Col md={5} className="d-flex flex-column justify-content-center">
               <p>
                 I am a React programmer with experience in back-end development
                 using Flask and Django. I am passionate about finding innovative

@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-import { LoremIpsum, Avatar } from "react-lorem-ipsum";
+import { Avatar } from "react-lorem-ipsum";
 
 export const AboutMe = () => {
   return (
@@ -10,17 +10,20 @@ export const AboutMe = () => {
         <Container className="mt-3">
           <Row>
             <Col className="d-flex justify-content-center">
-              <Avatar className="rounded" />
+              {/* <img
+                href={process.env.PUBLIC_URL + "/Ido-Pro-Pic.png"}
+                alt="Profile Picture of Ido"
+              /> */}
+              <Avatar className="rounded"/>
             </Col>
             <Col>
               <p>
-                My name is Ido Tanne, and I am a React programmer with
-                experience in back-end development using Flask and Django. I am
-                passionate about finding innovative solutions to complex
-                problems and enjoy the challenge of developing efficient and
-                effective software. As a team player, I value collaboration and
-                communication to ensure that projects are completed to the best
-                of our abilities.
+                I am a React programmer with experience in back-end development
+                using Flask and Django. I am passionate about finding innovative
+                solutions to complex problems and enjoy the challenge of
+                developing efficient and effective software. As a team player, I
+                value collaboration and communication to ensure that projects
+                are completed to the best of our abilities.
               </p>
               <p>
                 I am constantly seeking to expand my knowledge and skills, and I

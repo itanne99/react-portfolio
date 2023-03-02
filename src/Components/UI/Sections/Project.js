@@ -13,7 +13,7 @@ export const Project = (props) => {
         <Card.Img
           className="overflow-auto rounded"
           src={
-            "https://images.pexels.com/photos/1423600/pexels-photo-1423600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            process.env.PUBLIC_URL+props.project.App_IMG
           }
           alt="Project IMG"
         />

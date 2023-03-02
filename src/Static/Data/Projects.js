@@ -1,4 +1,4 @@
-export const MOCK_DATA = [{"UUID":"12a52ddc-f5ad-44d7-9c38-0bab08e632cb","App_Name":"Gembucket","App_IMG":"http://dummyimage.com/1000x1000.png/ff4444/ffffff","App_URL":"https://www.google.com"},
+export const MOCK_DATA = [{"UUID":"12a52ddc-f5ad-44d7-9c38-0bab08e632cb","App_Name":"Fake-Person-Generator","App_IMG":"/9b5d6de8-65fe-4328-aac9-bf054f62c07c.png","App_URL":"https://fake-person-generator.vercel.app/"},
 {"UUID":"063683b4-70b3-431a-94af-b06b7d37a954","App_Name":"Prodder","App_IMG":"http://dummyimage.com/1000x1000.png/dddddd/000000","App_URL":"https://www.google.com"},
 {"UUID":"cace452e-7699-43cf-bba1-d16def4efbaf","App_Name":"Pannier","App_IMG":"http://dummyimage.com/1000x1000.png/cc0000/ffffff","App_URL":"https://www.google.com"},
 {"UUID":"145da6e6-39e3-4bb6-b6d3-dc95988c1c68","App_Name":"Daltfresh","App_IMG":"http://dummyimage.com/1000x1000.png/dddddd/000000","App_URL":"https://www.google.com"},
